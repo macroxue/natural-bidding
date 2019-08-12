@@ -227,7 +227,7 @@
    <td>♠ K42 <br> ♥ AK87 <br> ♦ K75 <br> ♣ KQ4 </td>
    <td>♠ AJT873 <br> ♥ 93 <br> ♦ QT <br> ♣ A85 </td>
    <td>1♣ - 12-19, 3+♣ <br> 2NT - 18-19 <br> 4NT - 问关键张 <br> 6♠ </td>
-   <td>1♠ - 6-11, 4+♠ <br> 3♠ - 10-11, 6+♠ <br> 5♥ - 两个无♠Q <br> &ndbsp; </td>
+   <td>1♠ - 6-11, 4+♠ <br> 3♠ - 10-11, 6+♠ <br> 5♥ - 两个无♠Q <br> &nbsp; </td>
   </tr>
 </table>
 
