@@ -452,10 +452,10 @@
 
 <table>
   <tr> <th>开叫人的再叫 </th> <th>点力 </th> <th>牌型 </th> </tr>
-  <tr> <td>2♣问叫 </td> <td> </td> <td>均型或4-4-4-1或草花套 </td> </tr>
+  <tr> <td>2♣问叫 </td> <td> </td> <td>均型或草花套 </td> </tr>
   <tr> <td>再叫开叫花色 </td> <td> </td> <td>六张以上 </td> </tr>
   <tr> <td>跳叫开叫花色 </td> <td> </td> <td>独立将牌 </td> </tr>
-  <tr> <td>二阶叫新花 </td> <td> </td> <td>四张以上，非均型 </td> </tr>
+  <tr> <td>二阶叫新花 </td> <td> </td> <td>四张以上，非均型含4-4-4-1 </td> </tr>
   <tr> <td>2NT </td> <td>18-19 </td> <td>均型 </td> </tr>
   <tr> <td>三阶叫新花 </td> <td> </td> <td>五五牌型 </td> </tr>
 </table>
