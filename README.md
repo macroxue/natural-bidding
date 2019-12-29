@@ -891,8 +891,8 @@
   <tr>
    <td>♠ AK765 <br> ♥ 8 <br> ♦ K87 <br> ♣ AKJ5 </td>
    <td>♠ Q932 <br> ♥ A65 <br> ♦ AT4 <br> ♣ Q73 </td>
-   <td>1♠ - 12-19, 5+♠ <br> 2♣ - 问叫 <br> 2NT - 问关键张 <br> 3NT - 问K <br> 4NT - 问Q <br> 6♦ - 问♦Q </td>
-   <td>1NT - 12+ <br> 2♠ - 3+♠ <br> 3♠ - 两个有♠Q <br> 4♠ - 无K <br> 5♣ - ♣Q <br> 6♠ - 无♦Q </td>
+   <td>1♠ - 12-19, 5+♠ <br> 2♣ - 问叫 <br> 2NT - 问关键张 <br> 3NT - 问K <br> 4NT - 问Q <br> 5♦ - 问♦Q <br> 6♠ </td>
+   <td>1NT - 12+ <br> 2♠ - 3+♠ <br> 3♠ - 两个有♠Q <br> 4♠ - 无K <br> 5♣ - ♣Q <br> 5♠ - 无♦Q <br> &nbsp; </td>
   </tr>
 </table>
 
